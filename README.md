@@ -1,4 +1,4 @@
-# Event-Stream-Compression-for-Neuromorphic-Vision-Grid-DBSCAN-and-Voxelization
+# Event Stream Compression for Neuromorphic Vision Grid DBSCAN and Voxelization
 
 ```**Spatial_Clustering.ipynb**```
  
